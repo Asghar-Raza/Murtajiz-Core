@@ -1,6 +1,7 @@
 Scala Chisel Learning Journey
 =======================
-[![Gitter](https://badges.gitter.im/Learning-Journey-MERL/CHSEL-FP-SCALA.svg)](https://gitter.im/Learning-Journey-MERL/CHSEL-FP-SCALA?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+[![Join the chat at https://gitter.im/merledu/scala-chisel-learning-journey](https://badges.gitter.im/merledu/scala-chisel-learning-journey.svg)](https://gitter.im/merledu/scala-chisel-learning-journey?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 Start by setting up the working enviroment
