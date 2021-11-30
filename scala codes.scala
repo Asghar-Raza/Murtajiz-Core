@@ -45,6 +45,19 @@ object MyModule{
 
 //--------------------- ASSIGNMENT # 2-----------------------------------------------------------------
 
+// TASK 1
+object task1{
+  def main(args: Array[String]): Unit ={
+    def go(a: Int ): Int
+    val a = List.fill(15)(500).map(scala.util.Random.nextInt)
+    count: Int = 0
+    if(a(count)%2==0 or a(count)%3==0 or a(count)%5 ==0 or a(count)%7 == 0) -c
+    println(a)
+    else go(0)
+    }
+}
+
+
 // TASK 2
 char[] alpha = new char[26]
 for(int i = 0; i < 26; i++){
